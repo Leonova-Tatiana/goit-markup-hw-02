@@ -48,7 +48,7 @@ ol {
   color: #8b93f0;
 }
 .header-studio {
-  color: #2e2f42;
+  color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
@@ -64,20 +64,21 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.header-menu-link {
+.header-menu-link:hover .header-menu-link:focus {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.14;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .address {
+  font-style: normal;
 }
 .address-menu-list {
 }
 .address-menu-item {
 }
-.address-menu-link {
+.address-menu-link:hover .address-menu-link:focus {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -91,14 +92,12 @@ ol {
 .hero-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
 .hero-btn {
-  width: 169px;
-  height: 56px;
   background: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -111,11 +110,8 @@ ol {
 }
 .services-title {
   position: absolute;
-  width: 1px;
-  height: 1px;
   margin: -1px;
   border: 0;
-  padding: 0;
   white-space: nowrap;
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
@@ -131,6 +127,7 @@ ol {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .services-item-text {
   font-family: "Roboto";
@@ -148,9 +145,11 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #000000;
+  color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-list {
+  background-color: #ffffff;
 }
 .team-item {
   text-align: center;
@@ -161,6 +160,7 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
 }
 .team-item-text {
   font-weight: 400;
@@ -177,7 +177,8 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #000000;
+  color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-list {
 }
@@ -188,6 +189,7 @@ ol {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .portfolio-item-text {
   font-weight: 400;
@@ -214,6 +216,7 @@ ol {
 .footer-text {
   font-size: 14px;
   font-weight: 500;
-  line-height: 1.29;
-  color: #ffffff;
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
