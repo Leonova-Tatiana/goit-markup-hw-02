@@ -181,7 +181,6 @@ ol {
   text-align: center;
 }
 .portfolio {
-  background-color: #ffffff;
 }
 .portfolio-title {
   font-weight: 700;
@@ -195,6 +194,7 @@ ol {
 .portfolio-list {
 }
 .portfolio-item {
+  background-color: #ffffff;
 }
 .portfolio-subtitle {
   font-weight: 500;
