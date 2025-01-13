@@ -160,10 +160,10 @@ ol {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #ffffff;
 }
 .team-item {
   text-align: center;
+  background-color: #ffffff;
 }
 .team-subtitle {
   font-weight: 500;
@@ -194,7 +194,6 @@ ol {
 .portfolio-list {
 }
 .portfolio-item {
-  background-color: #ffffff;
 }
 .portfolio-subtitle {
   font-weight: 500;
