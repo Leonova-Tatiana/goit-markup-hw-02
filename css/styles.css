@@ -181,6 +181,7 @@ ol {
   text-align: center;
 }
 .portfolio {
+  background-color: #ffffff;
 }
 .portfolio-title {
   font-weight: 700;
@@ -192,7 +193,6 @@ ol {
   text-transform: capitalize;
 }
 .portfolio-list {
-  background-color: #ffffff;
 }
 .portfolio-item {
 }
