@@ -190,7 +190,6 @@ ol {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  background-color: #ffffff;
 }
 .portfolio-list {
 }
@@ -202,6 +201,7 @@ ol {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  background-color: #ffffff;
 }
 .portfolio-item-text {
   font-weight: 400;
