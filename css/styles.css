@@ -190,11 +190,11 @@ ol {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+  background-color: #ffffff;
 }
 .portfolio-list {
 }
 .portfolio-item {
-  background-color: #ffffff;
 }
 .portfolio-subtitle {
   font-weight: 500;
